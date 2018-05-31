@@ -1,0 +1,33 @@
+[
+  {
+    "name":"Danielia Shaw",
+    "age":29,
+    "address":"St Mary",
+    "city": "Kingston",
+    "country": "Jamaica"
+  },
+
+    {
+      "name":"Alicia Salas",
+      "age":20,
+      "address":"St Anns Bay",
+      "city": "Montego Bay",
+      "country": "Jamaica"
+    },
+
+    {
+        "name":"Damoio Ellis",
+        "age":29,
+        "address":"St Andrew",
+        "city": "Kingston",
+        "country": "Jamaica"
+    },
+
+      {
+          "name":"Lorreta Brown",
+          "age":19,
+          "address":"Maryland",
+          "city": "ohio",
+          "country": "America"
+      }
+]
